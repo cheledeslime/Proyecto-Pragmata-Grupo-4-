@@ -1,2 +1,2 @@
 # Proyecto-Pragmata-Grupo-4-
-lol
+profe ponganos 10
