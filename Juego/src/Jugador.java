@@ -21,4 +21,4 @@ public class Jugador {
 
     public void duplicarPuntaje() { puntaje *= 2; }
     public void sumarPuntos(int puntos) { puntaje += puntos; }
-} 
+}
